@@ -1,0 +1,8 @@
+[001415E8] Loading Device = C:\WINDOWS\HIMEM.SYS
+[00141894] LoadSuccess    = C:\WINDOWS\HIMEM.SYS
+(Logo disabled)
+[0014188A] Loading Device = C:\WINDOWS\DBLBUFF.SYS
+[0014188B] LoadSuccess    = C:\WINDOWS\DBLBUFF.SYS
+[0014188A] Loading Device = C:\WINDOWS\IFSHLP.SYS
+[0014188B] LoadSuccess    = C:\WINDOWS\IFSHLP.SYS
+[0014188B] (Safe boot)
